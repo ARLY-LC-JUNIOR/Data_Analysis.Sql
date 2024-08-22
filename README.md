@@ -2,7 +2,7 @@
 ###
 :radio_button: **Repositório criado para demonstrar habilidades em SQL, com scripts que vão de consultas básicas a análises avançadas. Ideal para aprimorarmos abordagens e técnicas de manipulação e análise de dados com SQL.**
 ##
-: Objetivo será de compartilhar experiencias, aprendizados e trocar conhecimento, bem como demonstrar habilidades práticas em SQL, abrangendo desde consultas básicas até análises mais avançadas. Os scripts incluídos são projetados para destacar a aplicação do SQL em diversos cenários de análise de dados, refletindo práticas essenciais para a manipulação e extração de informações valiosas. Ideal para analistas de dados e profissionais que buscam aprofundar seu conhecimento em SQL e aprimorar suas habilidades no tratamento e análise de dados.
+🎯 Objetivo será de compartilhar experiencias, aprendizados e trocar conhecimento, bem como demonstrar habilidades práticas em SQL, abrangendo desde consultas básicas até análises mais avançadas. Os scripts incluídos são projetados para destacar a aplicação do SQL em diversos cenários de análise de dados, refletindo práticas essenciais para a manipulação e extração de informações valiosas. Ideal para analistas de dados e profissionais que buscam aprofundar seu conhecimento em SQL e aprimorar suas habilidades no tratamento e análise de dados.
 #
 1. **Consulta e Extração de Dados**: Exemplos de como recuperar dados específicos de grandes conjuntos, filtrando e ordenando resultados conforme necessário.
 2. **Transformação e Limpeza de Dados**: Técnicas para normalizar, limpar e preparar dados para análises mais profundas, incluindo a remoção de duplicatas e o tratamento de valores nulos.
