@@ -1,5 +1,5 @@
--- Este repositório contém uma coleção de scripts SQL para analisar o banco de dados AdventureWorks2017.-- 
--- O objetivo é demonstrar o uso do SQL para extração, manipulação e análise de dados no ambiente SQL Server.--
+-- Este repositório contém uma coleção de scripts SQL para analisar o banco de dados AdventureWorks2017. -- 
+-- O objetivo é demonstrar o uso do SQL para extração, manipulação e análise de dados no ambiente SQL Server. --
 
 -- Este script seleciona todas as colunas da tabela person.Person.
 -- Pode ser usado para visualizar todos os dados disponíveis na tabela.
