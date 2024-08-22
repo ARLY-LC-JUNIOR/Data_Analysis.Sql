@@ -11,33 +11,33 @@ FROM person.Person;
 SELECT Title
 FROM person.Person;
 
-   -- Seleciona todas as colunas da tabela person.EmailAddress
+   -- Este script seleciona todas as colunas da tabela person.EmailAddress
    -- Para analisar os endereços de e-mail registrados.
 SELECT*
 FROM person.EmailAddress
 
-   -- Seleciona as colunas FirstName e LastName da tabela person.Person
+   -- Este script seleciona as colunas FirstName e LastName da tabela person.Person
    -- Utilizado para visualizar os nomes e sobrenomes das pessoas.
 SELECT firstName, lastName
 FROM person.Person;
 
-   -- Seleciona nomes únicos na coluna FirstName da tabela person.Person
+   -- Este script seleciona nomes únicos na coluna FirstName da tabela person.Person
    -- Removendo duplicatas.
 SELECT DISTINCT FirstName
 FROM person.Person;
 
-   -- Seleciona sobrenomes únicos na coluna LastName da tabela person.Person
+   -- Este script seleciona únicos na coluna LastName da tabela person.Person
    -- Também removendo duplicatas.
 SELECT DISTINCT LastName
 FROM person.Person;
 
-   -- Filtra a tabela person.Person para encontrar registros
+   -- Este script seleciona tabela person.Person para encontrar registros
    -- Específicos de uma pessoa com sobrenome 'Miller' e nome 'Anna'.
 SELECT*
 FROM person.person
 WHERE LastName = 'miller' and FirstName = 'anna'
 
-   -- Seleciona todos os produtos das cores 'blue' ou 'black'
+   -- Este script seleciona todos os produtos das cores 'blue' ou 'black'
    -- na tabela production.Product.
 SELECT*
 FROM production.Product
