@@ -19,8 +19,7 @@
   
 
             
-  ##
- - ## Dataset
-
-- O dataset utilizado neste repositório pode ser encontrado [AdventureWorks_2017](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms). O arquivo contém informações sobre o BD *AdventureWorks2017* é um banco de dados exemplo, fornecido pela Microsoft para o SQL Server. Será utilizado para aprendizado e prática de consultas SQL e demonstração de funcionalidades do SQL Server.
+ #
+ ### ▶️Dataset
+ - O dataset utilizado neste repositório pode ser encontrado [AdventureWorks_2017](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms). O arquivo contém informações sobre o BD *AdventureWorks2017* é um banco de dados exemplo, fornecido pela Microsoft para o SQL Server. Será utilizado para aprendizado e prática de consultas SQL e demonstração de funcionalidades do SQL Server.
 
