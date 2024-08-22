@@ -13,7 +13,7 @@
 ## :checkered_flag: Além disso
 
 - **Demonstrar** o uso de SQL para extração de dados importantes, como nomes, endereços e produtos.
-- **Ensinar** práticas de filtragem e limpeza de dados, incluindo a remoção de duplicatas e a filtragem por critérios específicos.
+- **Entender | Praticar | Compartilhar** práticas de filtragem e limpeza de dados, incluindo a remoção de duplicatas e a filtragem por critérios específicos.
 - **Exemplificar** como combinar dados de diferentes tabelas para obter insights mais profundos.
 - **Facilitar** a visualização de padrões e tendências nos dados que podem ser aplicados em análises reais.
   
