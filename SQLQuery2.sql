@@ -48,7 +48,7 @@ FROM production.Product
 WHERE color = 'blue' or color = 'black'
 
 
---**************************************************************************24/08/24
+--**************************************************************************24/08/24	
 	
 
 -- Seleciona os 15 primeiros nomes mais comuns na tabela 'Person.Person' Isso é útil para obter uma visão rápida dos nomes mais comuns
